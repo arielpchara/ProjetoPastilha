@@ -3,7 +3,7 @@
 Este é um projeto artistico conceitual que mescla técnologia de informação, róbotica e redes sociais.
 
 - Painel
-- Eixos ou Braço
+- Impressoras
 - Cabecote
 - Câmeras
 - Controler
@@ -23,3 +23,11 @@ Este é um projeto artistico conceitual que mescla técnologia de informação, 
 - Colaborativo
 - Sem fins lucrativos
 - Acessível
+
+## Descrição
+
+Um grande painel onde uma ou mais, impressoras vetoriais estarão interligadas a um servidor para controle remoto direto. O usuário tera um limite de tempo para efetuar seu desenho, em uma fração da area de cobertura da impressora, como indicado nas areas colordas da imagem a seguir.
+
+![Area de impressção](./images/area-print.jpg)
+
+A ordem de impressão é vertical como mostra a figura anterior.
